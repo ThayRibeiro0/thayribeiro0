@@ -6,7 +6,7 @@
 I'm committed to software development, exploring new technologies daily.
 
 🌱 Key Skills
-OS: Windows, Linux; 
+OS: Windows, Linux, MacOS; 
 Databases: MySQL, MongoDB, SQL; 
 Languages: HTML, CSS, JavaScript (Node.js, TypeScript), Python, PHP, C, Java;
 Frameworks/Libraries: React, Flask, Node Express, Android Studio;
