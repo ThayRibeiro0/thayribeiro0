@@ -6,11 +6,12 @@
 I'm committed to software development, exploring new technologies daily.
 
 🌱 Key Skills
-OS: Windows, Linux
-Databases: MySQL, MongoDB, SQL
-Languages: HTML, CSS, JavaScript (Node.js, TypeScript), Python, PHP, C, Java
-Frameworks/Libraries: React, Flask, Node Express, Android Studio
-Tools: Arduino, Docker, GitHub, VS Code, Tailwind.css, Vite.js
+OS: Windows, Linux; 
+Databases: MySQL, MongoDB, SQL; 
+Languages: HTML, CSS, JavaScript (Node.js, TypeScript), Python, PHP, C, Java;
+Frameworks/Libraries: React, Flask, Node Express, Android Studio;
+Tools: Arduino, Docker, GitHub, VS Code, Tailwind.css, Vite.js;
+
 📚 Learning Journey
 I love learning and staying current with industry trends.
 
