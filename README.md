@@ -2,15 +2,16 @@
 
 👋 Hey! I'm Thays, a software developer driven by technology and continuous improvement.
 
-🚀 About Me:
-I'm committed to software development, exploring new technologies daily.
+🚀 About Me: I'm committed to software development, exploring new technologies daily.<br>
 
 🌱 Key Skills<br>
-Operational Systems: 
+
+Operational Systems: <br>
 <img align="center" alt="Thays-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 <img align="center" alt="Thays-Js" height="30" width="40" color="white" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" />
 <img align="center" alt="Thays-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" /><br>
-Databases:
+
+Databases:<br>
 <img align="center" alt="Thays-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 <img align="center" alt="Thays-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" />
 <img align="center" alt="Thays-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" /><img align="center" alt="Thays-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" />
@@ -41,18 +42,15 @@ Tools: <br>
 <img align="center" alt="Thays-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" /><img align="center" alt="Thays-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
 <img align="center" alt="Thays-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
 <img align="center" alt="Thays-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
-<img align="center" alt="Thays-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original.svg" />
+<img align="center" alt="Thays-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original.svg" /><br>
 
+📚 Learning Journey: I love learning and staying current with industry trends.<br>
 
-📚 Learning Journey:
-I love learning and staying current with industry trends.
+🌟 Why Work With Me?<br>
+ - Quick learner and problem solver <br>
+ - Collaborative and passionate about teamwork<br>
 
-🌟 Why Work With Me?
- - Quick learner and problem solver
- - Collaborative and passionate about teamwork
-
-🤝 Let's Connect:
-Excited to connect with developers and tech enthusiasts!
+🤝 Let's Connect: Excited to connect with developers and tech enthusiasts!<br>
 
 <div>
  <a href="https://github.com/ThayRibeiro0">
@@ -61,7 +59,8 @@ Excited to connect with developers and tech enthusiasts!
 </div>
  
 </div>
-<a href="https://https://www.youtube.com/@thays9972 target="blank>  
+<a href="https://https://www.youtube.com/@thays9972" target="blank"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+<a href="https://www.linkedin.com/in/thays-ribeiro-maher-475b39275" target="blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </div>
 
 
