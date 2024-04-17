@@ -59,7 +59,7 @@ Tools: <br>
 </div>
  
 </div>
-<a href="https://https://www.youtube.com/@thays9972" target="blank"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+<a href="https://www.youtube.com/channel/UC-bXwNNuYAJ_uRstDT7fWyQ" target="blank"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 <a href="https://www.linkedin.com/in/thays-ribeiro-maher-475b39275" target="blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </div>
 
