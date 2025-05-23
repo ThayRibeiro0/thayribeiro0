@@ -20,7 +20,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/thaysribeiro/" target="blank">
+<a href="https://www.linkedin.com/in/thays-ribeiro-maher-475b39275/" target="blank">
     <img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="Thays Ribeiro" height="50" width="50" />
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://docs.google.com/document/d/1NvD7ixQeb_O6V_vM9_0iKuTGnJd7WrGHpkpbBC_Zu-M/edit?usp=sharing" target="blank"><img align="center" src="https://img.icons8.com/plasticine/64/000000/pdf.png" alt="Download my CV" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
