@@ -44,15 +44,15 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN/">
+  <a href="https://www.linkedin.com/in/thays-ribeiro-maher-475b39275/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   
-  <a href="mailto:SEU-EMAIL">
+  <a href="mailto:thaysmoiaribeiro@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
-  <a href="https://SEU-PORTFOLIO.com">
+  <a href="https://react-homework-portfolio.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
   </a>
 </p>
